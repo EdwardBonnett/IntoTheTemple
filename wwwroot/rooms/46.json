@@ -1,0 +1,11 @@
+﻿{
+  "c": "monsterdoor light",
+  "l": "You light your torch and realise you are back in the entrance room to the temple.",
+  "r": "The door that was sealed shut now has a monster shaped hole in it leading outside.",
+  "o": [
+    {
+      "i": 47,
+      "t": "Leave the temple"
+    }
+  ]
+} 

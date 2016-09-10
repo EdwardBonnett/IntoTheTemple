@@ -1,0 +1,19 @@
+﻿{
+  "c": "keyhole",
+  "l": "You head back the way you came into the previous room.",
+  "r": "There is a unusual shaped keyhole in the wall ahead and an open doorway to the left and right.",
+  "o": [
+    {
+      "i": 30,
+      "t": "Head into the left room"
+    },
+    {
+      "i": 31,
+      "t": "Turn key"
+    },
+    {
+      "i": 24,
+      "t": "Head into the right room"
+    }
+  ]
+} 

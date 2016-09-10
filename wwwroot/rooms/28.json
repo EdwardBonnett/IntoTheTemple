@@ -1,0 +1,11 @@
+﻿{
+  "c": "light treasure",
+  "l": "You take the green torch off of the wall and the whole wall recedes into the floor.",
+  "r": "Behind it is a golden ring sitting on a plinth.",
+  "o": [
+    {
+      "i": 38,
+      "t": "Take the ring"
+    }
+  ]
+} 

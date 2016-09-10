@@ -1,0 +1,19 @@
+﻿{
+  "c": "dark damage",
+  "l": "You fumble your way through the dark to find another exit, but end up hurting yourself in the process",
+  "r": "You are standing in a dark room",
+  "o": [
+    {
+      "i": 7,
+      "t": "Reopen the temple door"
+    },
+    {
+      "i": 5,
+      "t": "Light your torch"
+    },
+    {
+      "i": 6,
+      "t": "Find another exit"
+    }
+  ]
+} 

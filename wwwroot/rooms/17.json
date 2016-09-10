@@ -1,0 +1,19 @@
+﻿{
+  "c": "dark eyes",
+  "l": "You step through the left doorway and something blows out your torch, maybe it's scared of the light.",
+  "r": "There are two glowing green eyes staring at you in the darkness.",
+  "o": [
+    {
+      "i": 18,
+      "t": "Relight your torch"
+    },
+    {
+      "i": 19,
+      "t": "Try and fight the creature"
+    },
+    {
+      "i": 20,
+      "t": "Leave the room"
+    }
+  ]
+} 

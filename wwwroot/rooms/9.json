@@ -1,0 +1,15 @@
+﻿{
+  "c": "door",
+  "r": "You are standing outside the entrance to a half ruined temple.",
+  "l": "You return the note to the skeleton and walk back the way you came",
+  "o": [
+    {
+      "i": 4,
+      "t": "Enter the temple"
+    },
+    {
+      "i": 0,
+      "t": "Go home"
+    }
+  ]
+} 

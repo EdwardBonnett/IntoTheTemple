@@ -1,0 +1,11 @@
+﻿{
+  "c": "rip damage",
+  "l": "You press the left lever and the whole room collapses into a pile of rubble.",
+  "r": "You do not survive.",
+  "o": [
+    {
+      "i": 1,
+      "t": "Retry"
+    }
+  ]
+} 

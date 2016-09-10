@@ -1,0 +1,11 @@
+﻿{
+  "c": "eyes rip",
+  "l": "You lash out blindly at the creature and you come into contact with some fur.",
+  "r": "The monster looks upset and then eats you.",
+  "o": [
+    {
+      "i": 1,
+      "t": "Retry"
+    }
+  ]
+} 

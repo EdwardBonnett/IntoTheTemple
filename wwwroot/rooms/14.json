@@ -1,0 +1,19 @@
+﻿{
+  "c": "light door",
+  "l": "You head back into the temple entrance.",
+  "r": "You are standing in a room with one open door and two levers",
+  "o": [
+    {
+      "i": 8,
+      "t": "Press the left lever"
+    },
+    {
+      "i": 12,
+      "t": "Go through the door"
+    },
+    {
+      "i": 11,
+      "t": "Press the right lever"
+    }
+  ]
+} 

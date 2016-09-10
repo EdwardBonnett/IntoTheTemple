@@ -1,0 +1,11 @@
+﻿{
+  "c": "rip crush",
+  "l": "You step on a pressure plate and the tunnel walls slowly move in and crush you.",
+  "r": "You do not survive.",
+  "o": [
+    {
+      "i": 1,
+      "t": "Retry"
+    }
+  ]
+} 

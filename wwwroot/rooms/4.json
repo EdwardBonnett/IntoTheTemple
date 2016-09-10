@@ -1,0 +1,19 @@
+﻿{
+  "c": "lightToDark",
+  "l": "You enter the temple and the door slams shut behind you.",
+  "r": "You are standing in a dark room.",
+  "o": [
+    {
+      "i": 7,
+      "t": "Reopen the temple door"
+    },
+    {
+      "i": 5,
+      "t": "Light your torch"
+    },
+    {
+      "i": 6,
+      "t": "Find another exit"
+    }
+  ]
+} 

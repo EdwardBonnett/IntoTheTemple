@@ -1,0 +1,19 @@
+﻿{
+  "c": "light levers",
+  "l": "After fumbling in the dark you manage to ignite your torch, lighting up the entrance.",
+  "r": "You are standing in a room with three levers.",
+  "o": [
+    {
+      "i": 8,
+      "t": "Press the left lever"
+    },
+    {
+      "i": 10,
+      "t": "Press the middle lever"
+    },
+    {
+      "i": 11,
+      "t": "Press the right lever"
+    }
+  ]
+} 

@@ -1,0 +1,11 @@
+﻿{
+  "c": "riddle",
+  "l": "You cautiously head through into an empty room. There is some writing scratched into the wall near the door.",
+  "r": "GREEN",
+  "o": [
+    {
+      "i": 36,
+      "t": "Return to the previous room"
+    }
+  ]
+} 

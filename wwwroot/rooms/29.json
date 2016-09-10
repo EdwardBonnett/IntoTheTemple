@@ -1,0 +1,11 @@
+﻿{
+  "c": "rip boulder damage",
+  "l": "You take the blue torch off of the wall and a boulder falls from the ceiling.",
+  "r": "You try to outrun the boulder but cannot run fast enough. You do not survive.",
+  "o": [
+    {
+      "i": 1,
+      "t": "Retry"
+    }
+  ]
+} 

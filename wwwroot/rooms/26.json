@@ -1,0 +1,19 @@
+﻿{
+  "c": "puzzle",
+  "l": "You quickly leave the room and head into what appears to be another empty chamber.",
+  "r": "You are standing in an empty room three coloured torches on the wall.",
+  "o": [
+    {
+      "i": 29,
+      "t": "Take the blue torch"
+    },
+    {
+      "i": 27,
+      "t": "Take the red torch"
+    },
+    {
+      "i": 28,
+      "t": "Take the green torch"
+    }
+  ]
+} 

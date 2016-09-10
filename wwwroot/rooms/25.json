@@ -1,0 +1,15 @@
+﻿{
+  "c": "falling door",
+  "l": "You walk through the door and the floor suddenly gives way. You fall through the air and land on the rough stone below.",
+  "r": "You are standing in a room with an exit straight ahead.",
+  "o": [
+    {
+      "i": 26,
+      "t": "Go through the door"
+    },
+    {
+      "i": 37,
+      "t": "Inspect the room"
+    }
+  ]
+} 

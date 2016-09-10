@@ -1,0 +1,11 @@
+﻿{
+  "c": "light",
+  "l": "You go back into the room where the monster was but there's nothing there.",
+  "r": "You are standing in an empty room with one door going back the way you came.",
+  "o": [
+    {
+      "i": 35,
+      "t": "Go back through the door"
+    }
+  ]
+} 

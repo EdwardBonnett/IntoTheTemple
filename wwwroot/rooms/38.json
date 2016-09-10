@@ -1,0 +1,19 @@
+﻿{
+  "c": "collapse",
+  "l": "As you pick up the ring the ceiling slowly starts to descend and the door behind you slams shut.",
+  "r": "You are standing in a collapsing room with no exit.",
+  "o": [
+    {
+      "i": 39,
+      "t": "Bang on the walls"
+    },
+    {
+      "i": 40,
+      "t": "Give up"
+    },
+    {
+      "i": 41,
+      "t": "Pray to the gods"
+    }
+  ]
+} 

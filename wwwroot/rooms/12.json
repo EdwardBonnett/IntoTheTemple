@@ -1,0 +1,19 @@
+﻿{
+  "c": "tunnel",
+  "l": "You tentatively make your way through the opened doorway",
+  "r": "You are standing in a long empty tunnel",
+  "o": [
+    {
+      "i": 14,
+      "t": "Go back to the entrance"
+    },
+    {
+      "i": 15,
+      "t": "Continue forward"
+    },
+    {
+      "i": 16,
+      "t": "Inspect the tunnel carefully"
+    }
+  ]
+} 

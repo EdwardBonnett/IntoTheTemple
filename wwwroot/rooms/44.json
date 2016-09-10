@@ -1,0 +1,15 @@
+﻿{
+  "c": "light collapse",
+  "l": "You walk towards the new door holding your torch in front.",
+  "r": "The creature recoils back into the darkness and the newly opened door closes abruptly.",
+  "o": [
+    {
+      "i": 43,
+      "t": "Wait to be crushed"
+    },
+    {
+      "i": 45,
+      "t": "Extinguish your torch"
+    }
+  ]
+} 

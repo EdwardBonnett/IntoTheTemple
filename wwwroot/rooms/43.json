@@ -1,0 +1,11 @@
+﻿{
+  "c": "rip damage",
+  "l": "You decide that being crushed is preferable to being eaten. As the ceiling finally collapses your reflect on your poor decision.",
+  "r": "You do not survive.",
+  "o": [
+    {
+      "i": 1,
+      "t": "Retry"
+    }
+  ]
+} 

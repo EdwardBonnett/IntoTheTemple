@@ -1,0 +1,19 @@
+﻿{
+  "c": "light levers",
+  "l": "You flick the right lever down but nothing seems to happen.",
+  "r": "You are standing in a room with three levers.",
+  "o": [
+    {
+      "i": 8,
+      "t": "Press the left lever"
+    },
+    {
+      "i": 10,
+      "t": "Press the middle lever"
+    },
+    {
+      "i": 11,
+      "t": "Press the right lever again"
+    }
+  ]
+} 

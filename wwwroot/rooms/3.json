@@ -1,0 +1,15 @@
+﻿{
+  "c": "note",
+  "l": "You slowly prise the letter out of the hand and read the unfinished scrawl.",
+  "r": "\"I should never have pressed the left lever...\"",
+  "o": [
+    {
+      "i": 9,
+      "t": "Return to the temple entrance"
+    },
+    {
+      "i": 0,
+      "t": "This seems dangerous, go home"
+    }
+  ]
+} 

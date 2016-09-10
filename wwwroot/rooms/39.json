@@ -1,0 +1,19 @@
+﻿{
+  "c": "eyes door",
+  "l": "You bang on the walls fruitlessly, hoping someone can hear you.",
+  "r": "Suddenly a door opens up in the opposite wall. A pair of green eyes stare out of the darkness.",
+  "o": [
+    {
+      "i": 43,
+      "t": "Wait to be crushed"
+    },
+    {
+      "i": 42,
+      "t": "Extinguish your torch"
+    },
+    {
+      "i": 44,
+      "t": "Go through the door"
+    }
+  ]
+} 

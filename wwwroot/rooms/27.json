@@ -1,0 +1,11 @@
+﻿{
+  "c": "rip spike damage",
+  "l": "You take the red torch off the wall and spikes descend from the ceiling.",
+  "r": "You are impaled on the spikes. You do not survive.",
+  "o": [
+    {
+      "i": 1,
+      "t": "Retry"
+    }
+  ]
+} 

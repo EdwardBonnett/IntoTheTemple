@@ -1,0 +1,19 @@
+﻿{
+  "c": "eyes dark",
+  "l": "You try to leave the room but get disorientated in the dark and end up exactly where you started.",
+  "r": "There are two glowing green eyes staring at you in the darkness.",
+  "o": [
+    {
+      "i": 18,
+      "t": "Relight your torch"
+    },
+    {
+      "i": 19,
+      "t": "Try and fight the creature"
+    },
+    {
+      "i": 20,
+      "t": "Leave the room"
+    }
+  ]
+}

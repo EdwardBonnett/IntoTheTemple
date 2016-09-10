@@ -1,0 +1,11 @@
+﻿{
+  "c": "dark",
+  "l": "You extinguish your torch and hear the door re-open. You feel some furry paws grab you and pull you out of the room.",
+  "r": "After what feels like an age of being dragged through various rooms in the dark you are left alone in the darkness.",
+  "o": [
+    {
+      "i": 46,
+      "t": "Relight your torch"
+    }
+  ]
+} 

@@ -1,0 +1,19 @@
+﻿{
+  "c": "light door",
+  "l": "You hear a distant rubble and suddenly a hidden door opens up where the middle lever was",
+  "r": "You are standing in a room with one open door and two levers",
+  "o": [
+    {
+      "i": 8,
+      "t": "Press the left lever"
+    },
+    {
+      "i": 12,
+      "t": "Go through the door"
+    },
+    {
+      "i": 13,
+      "t": "Press the right lever"
+    }
+  ]
+} 

@@ -1,0 +1,11 @@
+﻿<div class="@Model.Class" id="game">
+    <div class="object"></div>
+    <h4 id="action">@Model.LastAction</h4>
+    <h3 id="room">@Model.RoomText</h3>
+    <p>What do you do?</p>
+    <ul class="options">
+        @foreach (var option in Model.Options){
+            <li><a href="/@option.Id">@option.Text</a></li>
+        }
+    </ul>
+</div>

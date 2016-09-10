@@ -1,0 +1,19 @@
+﻿{
+  "c": "keyhole",
+  "l": "You try forcing the lock open but make no progress. Looks like you will need the key.",
+  "r": "There is a unusual shaped keyhole in the wall ahead and an open doorway to the left and right.",
+  "o": [
+    {
+      "i": 17,
+      "t": "Head into the left room"
+    },
+    {
+      "i": 21,
+      "t": "Turn key"
+    },
+    {
+      "i": 23,
+      "t": "Head into the right room"
+    }
+  ]
+} 

@@ -1,0 +1,19 @@
+﻿{
+  "c": "door",
+  "r": "You are standing outside the entrance to a half ruined temple.",
+  "l": "After three years searching though the jungle you finally arrive.",
+  "o": [
+    {
+      "i": 2,
+      "t": "Explore the area"
+    },
+    {
+      "i": 4,
+      "t": "Enter the temple"
+    },
+    {
+      "i": 0,
+      "t": "Go home"
+    }
+  ]
+} 

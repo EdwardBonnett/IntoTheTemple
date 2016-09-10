@@ -1,0 +1,11 @@
+﻿{
+  "c": "bones light",
+  "l": "You inspect the room closely with your torch and realise that buried amongst the rubble are the skeletons of past explorers.",
+  "r": "You are standing in a room with an exit straight ahead.",
+  "o": [
+    {
+      "i": 26,
+      "t": "Go through the door"
+    }
+  ]
+} 

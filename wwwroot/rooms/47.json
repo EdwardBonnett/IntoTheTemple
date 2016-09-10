@@ -1,0 +1,11 @@
+﻿{
+  "c": "temple",
+  "l": "You escape through the hole into the night just as the rest of the temple collapses, thankful that you're alive.",
+  "r": "To be continued...",
+  "o": [
+    {
+      "i": 1,
+      "t": "Play again"
+    }
+  ]
+} 

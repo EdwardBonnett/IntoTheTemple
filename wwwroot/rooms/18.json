@@ -1,0 +1,11 @@
+﻿{
+  "c": "light key",
+  "l": "You hear some scuttingly, but by the time your eyes adjust to the light the creature has already disappeared.",
+  "r": "It has left behind an unusually shaped key in the center of the room.",
+  "o": [
+    {
+      "i": 22,
+      "t": "Pick up key and return to the other room"
+    }
+  ]
+} 

@@ -1,0 +1,19 @@
+﻿{
+  "c": "door unlock",
+  "l": "You turn the key in the lock and a section of the wall slides open. ",
+  "r": "There is a new door in the wall ahead and an open doorway to the left and right.",
+  "o": [
+    {
+      "i": 33,
+      "t": "Head into the left room"
+    },
+    {
+      "i": 25,
+      "t": "Go straight ahead"
+    },
+    {
+      "i": 32,
+      "t": "Head into the right room"
+    }
+  ]
+} 

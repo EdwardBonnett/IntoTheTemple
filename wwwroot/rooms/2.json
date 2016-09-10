@@ -1,0 +1,19 @@
+﻿{
+  "c": "skeleton",
+  "l": "You explore the area and come across a skeleton half covered in the undergrowth.",
+  "r": "On closer inspection you see it's holding a ripped note.",
+  "o": [
+    {
+      "i": 3,
+      "t": "Read the note"
+    },
+    {
+      "i": 1,
+      "t": "Return to the temple entrance"
+    },
+    {
+      "i": 0,
+      "t": "Go home"
+    }
+  ]
+} 

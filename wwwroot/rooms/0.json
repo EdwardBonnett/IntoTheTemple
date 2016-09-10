@@ -1,0 +1,19 @@
+﻿{
+  "c": "door",
+  "r": "You are standing outside the entrance to a half ruined temple.",
+  "l": "You fly home the next day, but you're inexplicably drawn to the temple and find yourself back a year later",
+  "o": [
+    {
+      "i": 2,
+      "t": "Explore the area"
+    },
+    {
+      "i": 4,
+      "t": "Enter the temple"
+    },
+    {
+      "i": 0,
+      "t": "Go home"
+    }
+  ]
+} 
